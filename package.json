@@ -1,6 +1,6 @@
 {
   "name": "@xops.net/expedition",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Expedition is a block explorer for the Ethereum Stack",
   "keywords": [
     "typescript",
