@@ -10,7 +10,7 @@ export default function () {
     {
       name: "Machine-as-a-Service",
       network: "maas",
-      rpc: ["https://localhost:8503"],
+      rpc: ["http://localhost:8503"],
     },
     {
       name: "Ethereum Classic",
